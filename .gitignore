@@ -1,1 +1,6 @@
+*.H5AD
+*.csv
+*.log
+*.sif
+*~
 singularity
